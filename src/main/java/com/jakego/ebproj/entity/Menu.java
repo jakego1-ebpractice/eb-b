@@ -3,6 +3,7 @@ package com.jakego.ebproj.entity;
 import jakarta.persistence.*;
 import lombok.Data;
 
+//
 @Entity
 @Table(name = "tbl_menu")
 @Data
